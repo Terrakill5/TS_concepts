@@ -1,0 +1,13 @@
+{
+  "name": "name",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
